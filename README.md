@@ -17,8 +17,8 @@ User Stories (Required)
 
 
 User Stories (Optional)
-[ ] History of past meals
-[ ] Integration of food delivery services, uber/lyft
-[ ] Integrate with social media (share on instagram, facebook)
+[ ] History of past meals  
+[ ] Integration of food delivery services, uber/lyft  
+[ ] Integrate with social media (share on instagram, facebook)  
 [ ] 
 
